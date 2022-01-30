@@ -1,0 +1,132 @@
+body{
+  background-color: #888e94;
+  height: 100%;
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 30%;
+}
+#head {
+  
+  color: white;
+}
+
+#about{
+  background-color: gray;
+}
+
+#name{
+  text-decoration: underline;
+  text-align: center;
+}
+
+#headStatment{
+  text-align: center;
+}
+
+#projectHead {
+  text-align: center;
+  ;
+}
+
+#crystalBtn {
+  background-color: #858b94;
+  margin-left: 34%;
+  
+  
+
+}
+#crystalBtn7 {
+  background-color: #858b94;
+  margin-left: 23%;
+  
+  
+
+}
+#crystalBtn6 {
+  background-color: #858b94;
+  margin-left: 21%;
+  
+  
+
+}
+#crystalBtn5 {
+  background-color: #858b94;
+  margin-left: 19%;
+  
+  
+
+}
+#crystalBtn2 {
+  background-color: #858b94;
+  
+  
+  
+
+}
+
+#crystalBtn3 {
+  background-color: #858b94;
+  margin-left: 10%;
+  
+  
+
+}
+#crystalBtn4 {
+  background-color: #858b94;
+  margin-left: 10%;
+  
+  
+
+}
+
+
+
+#projectBody{
+  background-color: #858b94;
+}
+#bottom {
+  margin-bottom: -100%;
+  bottom: 0;
+  width: 100%;
+}
+
+#grayBottom {
+  background-color: #858b94;
+
+}
+
+.center{
+  text-align: center;
+}
+
+.grBtn{
+  background-color: #858b94;
+}
+
+.profilephoto{
+  top: 20px;
+}
+
+.fadingObjects{
+  transition: 2s;
+}
+
+.fadingObjectsTwo {
+  transition : 1s;
+}
+
+.fadingFooter {
+  transition: 1s;
+}
+
+#connections{
+  
+  border-left: 3%;
+  padding-left: 3%;
+  margin-left: 3%;
+}
+
+.anotherFade{
+  transition: 2s;
+}
